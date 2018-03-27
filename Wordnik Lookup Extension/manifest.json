@@ -1,9 +1,9 @@
 {
-  "name": "Getting started example",
+  "name": "Wordnik Lookup",
   "manifest_version": 2,
   "version": "1.0",
 
-  "description": "Check out the staff stack more convenience.",
+  "description": "Lookup word definition on Wordnik website.",
   "icons":{
     "128":"icons/128.png",
     "48":"icons/48.png",
